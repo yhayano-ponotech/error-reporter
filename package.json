@@ -2,7 +2,8 @@
   "name": "error-reporter",
   "displayName": "Error Reporter",
   "description": "Export all workspace errors to a text file",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "publisher": "Ponotech",
   "author": {
     "name": "Yas"
